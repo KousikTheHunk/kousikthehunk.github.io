@@ -38,7 +38,7 @@ const About = () => {
                                     Based in India.
                                 </h2>
                                 <div className="hero-btns">
-                                    <a href="https://drive.google.com/file/d/1LJ9e3UDc1HrMNqZpxmEggVSgfxnOayWn/view" className="theme-btn">Download CV <i><RiDownloadLine size={16} /></i></a>
+                                    <a href="https://drive.google.com/file/d/1xkCFm_3AcLKZWkOauRtCsxcbFJT5Z5Ox/view" className="theme-btn">Download CV <i><RiDownloadLine size={16} /></i></a>
                                 </div>
                             </SlideUp>
                             <SlideUp>
