@@ -19,8 +19,8 @@ const About = () => {
                                 </div>
                                 <div className="about-social text-center">
                                     <ul>
-                                        <li><a href="#"><i><RiFacebookCircleFill size={20} /></i></a></li>
-                                        <li><a href="#"><i><RiTwitterXLine size={20} /></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/kousik-chandra-826989342/"><i><RiFacebookCircleFill size={20} /></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/kousik-chandra-826989342/"><i><RiTwitterXLine size={20} /></i></a></li>
                                         <li><a href="https://www.linkedin.com/in/kousik-chandra-826989342/"><i><RiLinkedinFill size={20} /></i></a></li>
                                         <li><a href="https://github.com/KousikTheHunk"><i><RiGithubLine size={20} /></i></a></li>
                                     </ul>
