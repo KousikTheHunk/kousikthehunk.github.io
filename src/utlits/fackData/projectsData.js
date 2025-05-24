@@ -8,9 +8,9 @@ export const projectsData = [
     {
       id: 1,
       src: work_1,
-      category: "Design",
-      title: "Mobile Application Design",
-      href: "https://example.com/project/1"
+      category: "Software Development",
+      title: "Blogging CRUD Application",
+      href: "https://blogly-theta.vercel.app/"
     },
     /*{
       id: 2,
