@@ -46,6 +46,7 @@ const About = () => {
                                     <li><i><RiArrowRightUpLine size={18} /></i> Full Stack Development </li>
                                     <li><i><RiArrowRightUpLine size={18} /></i> Software Development </li>
                                     <li><i><RiArrowRightUpLine size={18} /></i> Frontend Development </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Backend Development </li>
                                     <li><i><RiArrowRightUpLine size={18} /></i> Product Design </li>
                                 </ul>
                             </SlideUp> 
