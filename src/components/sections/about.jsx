@@ -34,7 +34,7 @@ const About = () => {
                         <div className="about-content-part">
                             <SlideUp>
                                 <h2>
-                                    Hello, I’m Kousik Chandra, <span>Software Engineer</span> and Full Stack Engineer specialised in React.Js and Node.js 
+                                    Hello, I’m Kousik Chandra, <span>Software Engineer</span> and Full Stack Engineer Specialised in React.js and Node.js 
                                     Based in India.
                                 </h2>
                                 <div className="hero-btns">
