@@ -34,7 +34,7 @@ const About = () => {
                         <div className="about-content-part">
                             <SlideUp>
                                 <h2>
-                                    Hello, I’m Kousik Chandra, <span>Software Engineer</span> and Frontend Engineer
+                                    Hello, I’m Kousik Chandra, <span>Software Engineer</span> and Full Stack Engineer
                                     Based in India.
                                 </h2>
                                 <div className="hero-btns">
@@ -43,10 +43,10 @@ const About = () => {
                             </SlideUp>
                             <SlideUp>
                                 <ul className="list-style-one two-column">
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Frontend Development</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Software Development</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Web Design</li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Product Design</li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Full Stack Development </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Software Development </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Frontend Development </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Product Design </li>
                                 </ul>
                             </SlideUp> 
                         </div>
