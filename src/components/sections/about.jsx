@@ -36,7 +36,7 @@ const About = () => {
                                 <h2>
                                     Hello, I am Kousik , <span> A Full Stack Software Engineer and Full Stack Digital Marketer </span> Based in India Who is 
                                     Specialized in Increasing Business Revenue by Streamlining Business Workflows by Building Custom Software Solutions for Business and by 
-                                    Improving Sales and Marketing through Digital Marketing .
+                                    Improving Sales and Marketing of The Business through Digital Marketing .
                                 </h2>
                                 <div className="hero-btns">
                                     <a href="https://drive.google.com/file/d/1K52klIcVYOHdlmqj_J_T4nPHpSwYTcDu/view" className="theme-btn">Download CV <i><RiDownloadLine size={16} /></i></a>
