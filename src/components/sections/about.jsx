@@ -34,7 +34,7 @@ const About = () => {
                         <div className="about-content-part">
                             <SlideUp>
                                 <h2>
-                                    Hello, I am Kousik Chandra, <span> Full Stack Software Engineer and Full Stack Digital Marketer </span> Based in India Who is 
+                                    Hello, I am Kousik , <span> A Full Stack Software Engineer and Full Stack Digital Marketer </span> Based in India Who is 
                                     Specialized in Increasing Business Revenue by Streamlining Business Workflows by Building Custom Software Solutions for Business and by 
                                     Improving Sales and Marketing through Digital Marketing .
                                 </h2>
