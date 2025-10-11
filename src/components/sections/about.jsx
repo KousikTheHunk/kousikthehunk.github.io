@@ -34,20 +34,22 @@ const About = () => {
                         <div className="about-content-part">
                             <SlideUp>
                                 <h2>
-                                    Hello, I’m Kousik Chandra, <span>Software Engineer</span> and Full Stack Engineer Specialised in React.js and Node.js 
-                                    Based in India.
+                                    Hello, I am Kousik Chandra, <span> Full Stack Software Engineer and Full Stack Digital Marketer </span> Based in India Who is 
+                                    Specialized in Increasing Business Revenue by Streamlining Business Workflows by Building Custom Software Solutions for Business and by 
+                                    Improving Sales and Marketing through Digital Marketing .
                                 </h2>
                                 <div className="hero-btns">
-                                    <a href="https://drive.google.com/file/d/1KhUljIzveI7U5UZvkqyrP87HkFOT8SH-/view" className="theme-btn">Download CV <i><RiDownloadLine size={16} /></i></a>
+                                    <a href="https://drive.google.com/file/d/1K52klIcVYOHdlmqj_J_T4nPHpSwYTcDu/view" className="theme-btn">Download CV <i><RiDownloadLine size={16} /></i></a>
                                 </div>
                             </SlideUp>
                             <SlideUp>
                                 <ul className="list-style-one two-column">
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Full Stack Development </li>
-                                    <li><i><RiArrowRightUpLine size={18} /></i> Software Development </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Full Stack Software Development </li>
                                     <li><i><RiArrowRightUpLine size={18} /></i> Frontend Development </li>
                                     <li><i><RiArrowRightUpLine size={18} /></i> Backend Development </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Database Design </li>
                                     <li><i><RiArrowRightUpLine size={18} /></i> Product Design </li>
+                                    <li><i><RiArrowRightUpLine size={18} /></i> Full Stack Digital Marketing  </li>
                                 </ul>
                             </SlideUp> 
                         </div>
